@@ -9,3 +9,8 @@ styles are studied. Students write programs emphasizing each of these techniques
 ## Contributors
 * Fawas Chaudry
 * Cameron Peeters
+
+## Submit Command
+ssh username@unix.ucsc.edu
+cd Assignment Directory
+`submit cse112-wm.f20 (${ASG} $^ or filenames)`
