@@ -11,6 +11,6 @@ styles are studied. Students write programs emphasizing each of these techniques
 * Cameron Peeters
 
 ## Submit Command
-ssh username@unix.ucsc.edu
-cd Assignment Directory
-`submit cse112-wm.f20 (${ASG} $^ or filenames)`
+* ssh username@unix.ucsc.edu
+* cd Assignment Directory
+* `submit cse112-wm.f20 (${ASG} $^ or filenames)`
