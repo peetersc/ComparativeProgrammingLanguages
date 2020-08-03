@@ -1,5 +1,6 @@
 # ComparativeProgrammingLanguages
 Repository for CSE112 Comparative Programming Languages.
+**Course Website:** https://www2.ucsc.edu/courses/cse112-wm/:/
 
 ##  Course Description from Catalog 
 CSE-112. Comparative Programming Languages. Covers several programming languages and compares styles, philosophy,
